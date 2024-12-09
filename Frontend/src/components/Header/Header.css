@@ -58,7 +58,7 @@
         max-width: 65%;
     }
     .header-contents h2{
-        line-height: 25px;
+        line-height: 35px;
     }
     .header-contents p{
         display: none;
@@ -74,5 +74,6 @@
     .header-contents h2{
         margin-bottom: 15px;
         font-weight: 800;
+        font-size: 40px;
     }
 }
