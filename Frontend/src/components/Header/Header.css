@@ -66,4 +66,11 @@
     .header-contents button{
         padding: 2vw 4vw;
     }
+    .header{
+        border-radius: 0px;
+        height: 50vw;
+    }
+    .header-contents h2{
+        margin-bottom: 10px;
+    }
 }
